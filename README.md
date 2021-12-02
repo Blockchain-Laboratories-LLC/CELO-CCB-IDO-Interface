@@ -18,13 +18,6 @@ Blockchain Laboratories LLC
 ##### Region location
 Remote
 
-##### Team Members
-Boone Bergsma, DeFi & Web3 Architect - https://github.com/BooneTB
-Boone Bergsma is an expert in sustainability, CSR, and ESG and is a member of the Climate Chain Coalition. Boone started Blockchain Laboratories LLC to create and launch Triple Bottom Line DApps.
-
-Wai Fung, DeFi & Web 3.0 Engineer - https://github.com/coolerwind
-Wai is an expert in DeFi development and has experience and expertise working with on multipule blockchains/DLTs. Wai is a dedicated developer whose skills are bringing Carbon Capture Backers to life. 
-
 #### Project Description
 Carbon Credit Backers is a IDO platform funding startups and projects that capture CO2.
 
@@ -53,9 +46,6 @@ Using IDOs we plan to bring more liquidity for financing carbon capture projects
 
 #### URLs
 Prototype on Alfajores testnet https://celo.carboncapturebackers.com/
-
-#### Presentation
-List any links to your presentation or any related visuals you want to share.
 
 #### Next Steps
 Launch $CCB IDO on Celo Mainnet.
@@ -87,6 +77,13 @@ Measure, Report, and Validate (MRV) the carbon removal of the projects to issue 
 ## Future Plans
 
 We will offer IDOs for many types of carbon capturing projects and create launch pad and incubator program for green businesses.
+
+##### Team Members
+Boone Bergsma, DeFi & Web3 Architect - https://github.com/BooneTB
+Boone Bergsma is an expert in sustainability, CSR, and ESG and is a member of the Climate Chain Coalition. Boone started Blockchain Laboratories LLC to create and launch Triple Bottom Line DApps.
+
+Wai Fung, DeFi & Web 3.0 Engineer - https://github.com/coolerwind
+Wai is an expert in DeFi development and has experience and expertise working with on multipule blockchains/DLTs. Wai is a dedicated developer whose skills are bringing Carbon Capture Backers to life. 
 
 #### License
 This repository includes an [unlicensed](http://unlicense.org/) statement though you may want to [choose a different license](https://choosealicense.com/).
